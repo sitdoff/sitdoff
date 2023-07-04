@@ -1,7 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGlybG1wZmhxczUyY3RpeHUxa3R4cDYxbTM5a3I4MWthdXlkZWo3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ApqHO90edYLlTn3s2H/giphy-downsized-large.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGlybG1wZmhxczUyY3RpeHUxa3R4cDYxbTM5a3I4MWthdXlkZWo3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ApqHO90edYLlTn3s2H/giphy-downsized-large.gif" width="200"/>
 </div>
-![](https://media.giphy.com/media/ApqHO90edYLlTn3s2H/giphy.gif)
+
 <!--
 **sitdoff/sitdoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
