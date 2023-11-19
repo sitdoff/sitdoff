@@ -51,7 +51,7 @@ I am a Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMp
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sitdoff&theme=calm-pink&hide_border=true&card_width=700"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sitdoff&theme=calm"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sitdoff&theme=calm"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sitdoff&theme=calm&width=100"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sitdoff&theme=calm"/>
 </div>
 <!--
