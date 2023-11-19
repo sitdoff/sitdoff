@@ -49,7 +49,10 @@ I am a Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMp
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sitdoff&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sitdoff&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sitdoff&theme=calm)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sitdoff&theme=calm)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sitdoff&theme=calm)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sitdoff&theme=calm)
 
 <!--
 **sitdoff/sitdoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
