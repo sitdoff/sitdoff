@@ -48,7 +48,7 @@ I am a Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sitdoff&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sitdoff&theme=calm-pink&hide_border=true)](https://git.io/streak-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sitdoff&theme=calm)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sitdoff&theme=calm)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sitdoff&theme=calm)
