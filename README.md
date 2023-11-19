@@ -6,10 +6,14 @@
   <a href="https://t.me/sitdoff"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-lightblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </div>
+<br>
 <div align="center"><img src="https://komarev.com/ghpvc/?username=sitdoff&style=flat-square&color=blue" alt=""/></div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+<br>
+ ---
+:man_technologist: About Me :
 <!--
 **sitdoff/sitdoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
