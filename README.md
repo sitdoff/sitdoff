@@ -54,7 +54,6 @@ I am a Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMp
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sitdoff&theme=calm)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sitdoff&theme=calm)
 </div>
-
 <!--
 **sitdoff/sitdoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
