@@ -7,10 +7,12 @@
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-lightblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </div>
 <br>
+<div id="greetings" align="center">
 <h1>
   Hello, my friend!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+</div>
 <div align="center"><img src="https://komarev.com/ghpvc/?username=sitdoff&style=flat-square&color=blue" alt=""/></div>
 <br>
 <div align="center">
