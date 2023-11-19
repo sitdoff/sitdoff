@@ -14,6 +14,7 @@
 <div id="badges" align="center">
   <a href="https://t.me/sitdoff"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-lightblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="sitdoff@gmail.com"><img src="https://img.shields.io/badge/Email_me-green?logoColor=white&style=for-the-badge" alt="Email me"/></a>
 </div>
 <br>
 <div align="center"><img src="https://komarev.com/ghpvc/?username=sitdoff&style=flat-square&color=blue" alt=""/></div>
@@ -24,6 +25,7 @@
 ### :man_technologist: About Me :
 
 I am a Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+📫 How to reach me: <a href="sitdoff@gmail.com">email</a>
 
 ---
 
