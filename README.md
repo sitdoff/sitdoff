@@ -25,7 +25,8 @@
 ### :man_technologist: About Me :
 
 I am a Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-📫 How to reach me: <a href="mailto:sitdoff@gmail.com">email</a>
+
+- 📫 How to reach me: <a href="mailto:sitdoff@gmail.com">email</a>
 
 ---
 
