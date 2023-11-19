@@ -48,10 +48,12 @@ I am a Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 ### :fire: My Stats :
 
+<div align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=sitdoff&theme=calm-pink&hide_border=true&card_width=700)](https://git.io/streak-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sitdoff&theme=calm)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sitdoff&theme=calm)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sitdoff&theme=calm)
+</div>
 
 <!--
 **sitdoff/sitdoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
