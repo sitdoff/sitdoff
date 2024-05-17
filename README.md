@@ -13,7 +13,7 @@
 <br>
 <div id="badges" align="center">
   <a href="https://t.me/sitdoff"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/></a>
-  <a href="www.linkedin.com/in/sitdoff"><img src="https://img.shields.io/badge/LinkedIn-lightblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+<a href="https://www.linkedin.com/in/sitdoff"><img src="https://img.shields.io/badge/LinkedIn-lightblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="mailto:sitdoff@gmail.com"><img src="https://img.shields.io/badge/Email_me-green?logoColor=white&style=for-the-badge" alt="Email me"/></a>
 </div>
 <br>
